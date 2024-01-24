@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JudaCarrillo
-- 👀 I’m interested in this world of programming
+- 👋 Hi, I’m Judá Carrillo Pacherres
+- 👀 I'm interested in working
 - 🌱 I’m currently learning technologies focused on development web
 - 📫 How to reach me www.linkedin.com/in/judác
 
